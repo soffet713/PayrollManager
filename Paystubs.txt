@@ -1,0 +1,18 @@
+			Daifuku Intralogistics America Corporation
+	Name: Bob Sawyer - Employee Id: 1000
+	Pay Date: 	2024/05/17
+	Net Salary: $115500
+	Gross Salary: $165000
+
+			Daifuku Intralogistics America Corporation
+	Name: Jane Doe - Employee Id: 1001
+	Pay Date: 	2024/05/17
+	Net Salary: $66500
+	Gross Salary: $95000
+
+			Daifuku Intralogistics America Corporation
+	Name: Bill Thomas - Employee Id: 1002
+	Pay Date: 	2024/05/17
+	Net Salary: $73500
+	Gross Salary: $105000
+
